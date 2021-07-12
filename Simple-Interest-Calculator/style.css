@@ -1,0 +1,28 @@
+body {
+    background-color:black;
+    font-family:arial;
+    color:white
+    }
+h1{
+    color:grey;
+    font-family:verdana
+    }
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    margin-left:auto;
+	margin-right:auto;
+}
+label {
+    width:180px;
+    clear:left;
+    text-align:left;
+    padding-right:10px;
+}
+
+input, label {
+    float:left;
+}
